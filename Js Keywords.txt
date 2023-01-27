@@ -1,0 +1,9 @@
+JAVASCRIPT Keywords
+
+Interaction -		
+	1) Alert - user popUp
+	2) Prompt - 2 aurguments
+	3) confirm -t/f ok & cancel
+	
+Conversion - implicit, Explicit
+Coersion - forcefully conversion 10+"20" ="1020"

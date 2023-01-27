@@ -1,0 +1,5 @@
+Js Methods
+
+Conversion :-
+	1) String() - S is block
+	2) Number() - N is block

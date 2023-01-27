@@ -1,0 +1,26 @@
+JavaScript Keywords
+
+Transplie - Converting language to js code that could run on browser
+Compile - JavaScript Code to Machine code
+browser Cache - to break file and store it locally for fast access 
+
+implicit - khud se hona (automatic type converion)
+explicit - ham bta te hai
+
+Impreative - define the end goal (let React.js do the thing)
+Declarative - Define each and every goal (JS) 
+
+functions => Parameter, Aruguments
+
+Paths
+	1: Absolute path:- from site root
+	2: Relative path:- within the same directory 
+	
+	
+CODE- 
+1) Initalization:- initialization is the assignment of an initial value for a data object or variable. 
+2) Declaration :- create variable to hold info.
+3) Assignment :- Assign Value to declared variable
+	
+	
+	

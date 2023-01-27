@@ -1,0 +1,6 @@
+JavaScript Keep In Mind 
+
+Typeof
+	null = object
+	
+Input from User is always string.
